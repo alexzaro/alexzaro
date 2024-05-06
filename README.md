@@ -19,7 +19,7 @@ Ingeniero de Sistemas con una sólida trayectoria en el desarrollo web y móvil,
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,php,py,js,css,tailwind,html,astro,nodejs,mysql,mogodb,postgres,laravel,angular,github,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,php,py,js,css,tailwind,html,astro,nodejs,mysql,mongodb,postgres,laravel,angular,github,vscode&perline=12" />
   </a>
 </p>
 <br>
